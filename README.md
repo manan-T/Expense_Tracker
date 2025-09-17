@@ -9,11 +9,7 @@ This is a full-stack Expense Tracker application built using the MERN stack (Mon
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
 - [Environment Variables](#environment-variables)
-- [File Structure](#file-structure)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Features
 - Add, edit, and delete expenses.
 - Categorize expenses.
